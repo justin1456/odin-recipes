@@ -1,0 +1,16 @@
+div {
+    background-color: gold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 38px;
+    color: crimson;
+    text-align: left;
+    font-weight: bold;
+    
+}
+
+p {
+    font-size: 76px;
+    color: aqua;
+    background-color: red;
+    text-align: center;
+}
